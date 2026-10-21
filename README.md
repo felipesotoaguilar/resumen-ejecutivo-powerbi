@@ -1,4 +1,3 @@
-markdown
 # Dashboard Financiero — Real vs. Presupuesto
 
 Dashboard ejecutivo en Power BI para el seguimiento financiero de una empresa, 
