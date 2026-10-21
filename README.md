@@ -1,8 +1,15 @@
+markdown
 # Dashboard Financiero — Real vs. Presupuesto
 
 Dashboard ejecutivo en Power BI para el seguimiento financiero de una empresa, 
 comparando resultados reales contra presupuesto, con desglose por tipo de cuenta, 
 centro de costo y evolución mensual.
+
+## 🖼️ Pre-visualización
+
+![Vista del dashboard 1](./dashboard1.png)
+
+![Vista del dashboard 2](./dashboard2.png)
 
 ## 📊 Contenido del dashboard
 
